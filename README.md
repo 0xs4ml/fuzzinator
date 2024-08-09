@@ -5,7 +5,7 @@
 ### Usage:
 - -u or --url: Base URL of the target site.
 - -w or --wordlist: Path to the wordlist file containing directories to be tested.
-- `python fuzzinator.py -u http://example.com -w /path/to/wordlist.txt`
+- `python3 fuzzinator.py -u http://example.com -w /path/to/wordlist.txt`
 
 ![fuzzinator](https://github.com/user-attachments/assets/bc7850cd-8619-4e44-8c9d-568c4b0b48de)
 
