@@ -7,8 +7,6 @@
 - -w or --wordlist: Path to the wordlist file containing directories to be tested.
 - `python fuzzinator.py -u http://example.com -w /path/to/wordlist.txt`
 
-![Test]([https://imgur.com/a/TLDhElE](https://myoctocat.com/assets/images/base-octocat.svg))
-
 ### Dependencies:
 - requests: Library for making HTTP requests -> `pip install requests`
 
